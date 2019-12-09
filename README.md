@@ -26,3 +26,7 @@
 3．	输入选课信息。
 4．	画出程序流程图
 # 四、流程图
+![](https://github.com/zhanghan11128/shiyan/blob/master/1.png)
+# 五、实验结果
+![](https://github.com/zhanghan11128/shiyan/blob/master/1.png)
+![](https://github.com/zhanghan11128/shiyan/blob/master/1.png)
